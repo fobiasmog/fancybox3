@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.gem
+=======
+pkg/
+>>>>>>> 5fff126b2bdbbe2fed303e471b997739cd113fb1
